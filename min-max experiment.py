@@ -37,3 +37,4 @@ tree = [
 result = minimax(tree, True)
 
 print("Optimal value at root (A):", result)
+
